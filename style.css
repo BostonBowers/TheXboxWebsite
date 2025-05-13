@@ -15,12 +15,13 @@ body{
 p{
     background-color:rgba(72, 196, 14, 0.63) ;
     width:fit-content;
+    font-size: x-large;
 }
 .body1{
-
+    background-image: url("images/Sea.jpg");
 }
-.body2{
-
+#body2{
+    background-image: url("images/XboxShla.avif");
 }
 ul li{
     font-size:larger;
